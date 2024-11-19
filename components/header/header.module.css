@@ -1,0 +1,37 @@
+.wrapper {
+	/* padding: 32px;
+	margin: 32px 15%; */
+	border-bottom: thin solid dimgray;
+}
+
+.baseInfoContainer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 28px;
+	padding: 12px;
+}
+.name {
+	font-weight: bold;
+}
+.picture {
+	border-radius: 50%;
+}
+.bioContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+.location {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+	align-items: center;
+}
+
+.linksContainer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 22px;
+}
