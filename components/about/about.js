@@ -1,7 +1,7 @@
 import {Box} from "@mui/material"
 import React from "react"
 
-export default function Header() {
+export default function About() {
 	/** Refs */
 	/** State */
 	/** Hooks */

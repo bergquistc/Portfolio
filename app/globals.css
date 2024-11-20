@@ -44,3 +44,14 @@ a {
 		color-scheme: dark;
 	}
 }
+
+.MuiTab-root {
+	color: #fff;
+}
+.MuiTab-root.Mui-selected {
+	color: #b4edee;
+}
+.MuiTabs-indicator {
+	background-color: #b4edee;
+	height: 2px;
+}

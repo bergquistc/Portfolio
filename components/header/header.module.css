@@ -1,6 +1,8 @@
 .wrapper {
 	/* padding: 32px;
 	margin: 32px 15%; */
+	padding-bottom: 24px;
+	margin-bottom: 24px;
 	border-bottom: thin solid dimgray;
 }
 
